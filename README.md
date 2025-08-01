@@ -33,7 +33,7 @@ O sistema tem como objetivo facilitar a organização e gestão do salão, com r
 
 3. Configure o banco de dados:  
 - Crie um banco de dados no MySQL  
-- Execute o script SQL que está na pasta `/banco` (caso exista)  
+- Execute o script SQL que está na pasta `SCRIPT DO BANCO DE DADOS` (caso exista)  
 - Atualize as configurações de conexão no código, se necessário  
 
 4. Compile e execute o projeto pelo NetBeans.
